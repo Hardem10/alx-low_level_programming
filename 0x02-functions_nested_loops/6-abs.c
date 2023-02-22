@@ -6,10 +6,10 @@
  * Return: Absolute value of number or zero
  */
 
-int  _abs(int c)
+int _abs(int c)
 
 {
-	if(c < 0)
+	if (c < 0)
 	{
 	int abs_val;
 
